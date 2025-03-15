@@ -1,19 +1,27 @@
-- 👋 Hi, I’m @lumusa2design
-- 👀 I’m interested in programing videogames, i am an advanced technician in videogames, and i am studying informatic engieneering in ULPGC
-- 🌱 I’m currently learning IA, and machine learning, and arduino
-- 💞️ I’m looking to collaborate on everything that could give me some new knowledge
-- 📫 How to reach me ...
-Instagram: @lumusa2design
-linkedin:https://www.linkedin.com/in/luis-muñoz-sanz-4314541a5
+# 🚀 Hola, soy @lumusa2design
 
-<!---
-lumusa2design/lumusa2design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lumusa2design&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lumusa2design&repo=convoychat" />
-</a>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumusa2design&layout=compact)-->
+## 👀 Sobre mí
+Soy un técnico avanzado en desarrollo de videojuegos y actualmente estudio Ingeniería Informática en la ULPGC. Me apasiona la programación de videojuegos, la inteligencia artificial y la electrónica con Arduino.
+
+## 🌱 Aprendiendo actualmente
+- Inteligencia Artificial y Machine Learning
+- Desarrollo con Arduino
+- Nuevas tecnologías aplicadas a los videojuegos
+
+## 💡 Intereses
+- Programación de videojuegos 🎮
+- Desarrollo de software y hardware
+- Aprender y colaborar en proyectos innovadores
+
+## 💞️ Colaboraciones
+Siempre estoy abierto a participar en proyectos que me aporten nuevos conocimientos y desafíos.
+
+## 📫 Contacto
+- **Instagram:** [@lumusa2design](https://www.instagram.com/lumusa2design)
+- **LinkedIn:** [Luis Muñoz Sanz](https://www.linkedin.com/in/luis-mu%C3%B1oz-sanz-4314541a5)
+
+## 📊 Estadísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumusa2design&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumusa2design&layout=compact&theme=radical" />
+</div>
