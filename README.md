@@ -20,12 +20,16 @@ Siempre estoy abierto a participar en proyectos que me aporten nuevos conocimien
 - **Instagram:** [@lumusa2design](https://www.instagram.com/lumusa2design)
 - **LinkedIn:** [Luis Muñoz Sanz](https://www.linkedin.com/in/luis-mu%C3%B1oz-sanz-4314541a5)
 ---
-<p><h2 align ="center">Languages and Tools</h1></p>
+<p><h2 align ="center">Languages and Tools</h2></p>
 <p>
-<img src="media/csharp.svg" width ="50">
-<img src = "media/c.svg" width="50">
-<img src = "media/java-4.svg" width="50">
-<img src = "media/python.svg" width="50">
+  <img src="media/csharp.svg" width ="50">
+  <img src = "media/c.svg" width="50">
+  <img src = "media/java-4.svg" width="50">
+  <img src = "media/python.svg" width="50">
+  <img src =  "media/arduino-1.svg" width="50">
+  <img src = "media/html-1.svg" width="50">
+  <img src = "media/css-3.svg" width="50">
+  <img src = "media/nodejs-3.svg" width="50">
 </p>
 
 ---
