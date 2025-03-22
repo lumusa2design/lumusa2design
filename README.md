@@ -19,11 +19,7 @@
 ## 💞️ Colabs
 I am interested in collaborating with anyone who will allow me to learn more and challenge my knowledge.
 
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
-
-## 📫 Contacto
+## 📫 Contact
 - **Instagram:** [@lumusa2design](https://www.instagram.com/lumusa2design)
 - **LinkedIn:** [Luis Muñoz Sanz](https://www.linkedin.com/in/luis-mu%C3%B1oz-sanz-4314541a5)
 ---
@@ -40,8 +36,31 @@ I am interested in collaborating with anyone who will allow me to learn more and
 </p>
 
 ---
-## 📊 Estadísticas
+<p><h2 align = "center">Design tools</h2></p>
+---
+
+
+## 📊 Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumusa2design&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumusa2design&layout=compact&theme=radical" />
 </div>
+
+![](https://nirzak-streak-stats.vercel.app/?user=lumusa2design&theme=radical&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=lumusa2design&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<style>
+  h1 
+  {
+
+    margin: 0;
+    padding-bottom: 6rem;
+    grid-column: 1;
+    grid-row: 1;
+    z-index: 1;
+    animation: glow 2s ease-in-out infinite 
+  }
+</style>
