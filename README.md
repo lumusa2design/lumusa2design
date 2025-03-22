@@ -1,20 +1,27 @@
-# 🚀 Hola, soy @lumusa2design
+# 🚀 Hi, i am @lumusa2design
 
-## 👀 Sobre mí
-Soy un técnico avanzado en desarrollo de videojuegos y actualmente estudio Ingeniería Informática en la ULPGC. Me apasiona la programación de videojuegos, la inteligencia artificial y la electrónica con Arduino.
+## 👀 About me
+- 🎮 advanced technician in 3D animation, games and interactive environment design
+- 👨🏼‍🎓 Student of the degree in computer engineering of the Universidad de Las Palmas de Gran Canaria (ULPGC)
 
-## 🌱 Aprendiendo actualmente
-- Inteligencia Artificial y Machine Learning
-- Desarrollo con Arduino
-- Nuevas tecnologías aplicadas a los videojuegos
+## 🌱 Current Learning
+- Computer algorithms
+- Development of webpages and mobile pages
+- Artificial inteligence
+- Clean code and refactoring.
+- Programming in Lisp
 
-## 💡 Intereses
-- Programación de videojuegos 🎮
-- Desarrollo de software y hardware
-- Aprender y colaborar en proyectos innovadores
+## 💡 Intests
+- Game development 🕹
+- Advanced algorithms knowledge ♟
+- Get knowledge
 
-## 💞️ Colaboraciones
-Siempre estoy abierto a participar en proyectos que me aporten nuevos conocimientos y desafíos.
+## 💞️ Colabs
+I am interested in collaborating with anyone who will allow me to learn more and challenge my knowledge.
+
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
 
 ## 📫 Contacto
 - **Instagram:** [@lumusa2design](https://www.instagram.com/lumusa2design)
