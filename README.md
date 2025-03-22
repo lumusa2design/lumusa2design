@@ -4,13 +4,17 @@
 class lumusa2design:
     def __init__(self):
       self.education = ["🎮 Advanced technician in 3D animation, games and interactive envidoment design 🎮", "👨🏼‍🎓 degree in computer engineering of the Universidad de Las Palmas de Gran Canaria (In progress) 👨🏼‍🎓"]
-      self.profession = "Programmer"
+      self.profession = "👨🏼‍💻 Programmer"
       self.country = "🌍Spain"
       self.city = "🌆Las Palmas de Gran Canaria"
       self.age = 25
+      self.hobbies = ["Coding","Learning" ,"Videogames"]
+      self.favourite_music = "Rock"
+    
+    def actions(self):
+      while True:
+        programming()
 ```
-- 🎮 advanced technician in 3D animation, games and interactive environment design
-- 👨🏼‍🎓 Student of the degree in computer engineering of the Universidad de Las Palmas de Gran Canaria (ULPGC)
 
 ## 🌱 Current Learning
 - Computer algorithms
@@ -66,11 +70,11 @@ I am interested in collaborating with anyone who will allow me to learn more and
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumusa2design&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumusa2design&layout=compact&theme=radical" />
 </div>
-<p align="center">
+<div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=lumusa2design&theme=radical&hide_border=false)<br/>
 
-</p>
+</div>
 
 ## 🏆 GitHub Trophies
 
