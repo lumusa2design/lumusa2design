@@ -1,5 +1,4 @@
-# 🚀 Hi, i am @lumusa2design
-
+# ![Texto en movimiento](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=9000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=🚀Hi,+i+am+@lumusa2design💻)
 ## 👀 About me
 - 🎮 advanced technician in 3D animation, games and interactive environment design
 - 👨🏼‍🎓 Student of the degree in computer engineering of the Universidad de Las Palmas de Gran Canaria (ULPGC)
@@ -37,6 +36,16 @@ I am interested in collaborating with anyone who will allow me to learn more and
 
 ---
 <p><h2 align = "center">Design tools</h2></p>
+  <img src="media/photoshop.svg" width ="40">
+  <img src = "media/illustrator.svg" width="40">
+  <img src = "media/animate.svg" width="40">
+  <img src = "media/audition.svg" width="40">
+  <img src =  "media/premiere.svg" width="40">
+  <img src = "media/aftereffects.svg" width="40">
+  <img src = "media/3dsmax.svg" width="40">
+  <img src = "media/substance.svg" width="40">
+  <img src = "media/zbrush.svg" width="40">
+
 ---
 
 
@@ -52,15 +61,3 @@ I am interested in collaborating with anyone who will allow me to learn more and
 
 ![](https://github-profile-trophy.vercel.app/?username=lumusa2design&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<style>
-  h1 
-  {
-
-    margin: 0;
-    padding-bottom: 6rem;
-    grid-column: 1;
-    grid-row: 1;
-    z-index: 1;
-    animation: glow 2s ease-in-out infinite 
-  }
-</style>
