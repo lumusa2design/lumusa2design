@@ -37,15 +37,15 @@ I am interested in collaborating with anyone who will allow me to learn more and
 ---
 <p><h2 align = "center">Design tools</h2></p>
 <p>
-  <img src="media/photoshop.svg" width ="40">
-  <img src = "media/illustrator.svg" width="40">
-  <img src = "media/animate.svg" width="40">
-  <img src = "media/audition.svg" width="40">
-  <img src =  "media/premiere.svg" width="40">
-  <img src = "media/aftereffects.svg" width="40">
-  <img src = "media/3dsmax.svg" width="40">
-  <img src = "media/substance.svg" width="40">
-  <img src = "media/zbrush.svg" width="40">
+  <img src="media/photoshop.svg" width ="50">
+  <img src = "media/illustrator.svg" width="50">
+  <img src = "media/animate.svg" width="50">
+  <img src = "media/audition.svg" width="50">
+  <img src =  "media/premiere.svg" width="50">
+  <img src = "media/aftereffects.svg" width="50">
+  <img src = "media/3dsmax.svg" width="50">
+  <img src = "media/substance.svg" width="50">
+  <img src = "media/zbrush.svg" width="50">
   </p>
 
 ---
