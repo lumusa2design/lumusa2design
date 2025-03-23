@@ -138,7 +138,7 @@ ar).  -->
   <img src = "media/3dsmax.svg" width="50">
   <img src = "media/substance.svg" width="50">
   <img src = "media/zbrush.svg" width="50">
-  <img src = "media/figma.svg" width="35">
+  <img src = "media/Figma.svg" width="35">
   </p>
 
 ---
