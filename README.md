@@ -42,22 +42,21 @@ class lumusa2design:
 </table>
 
 ## 🌱 Currently Learning  
-
 - 💻 **Computer algorithms**  
-  <progress value="40" max="100"></progress>
+  <span style="color:green">█████████░░░░░░░░░░░</span> 40%
 
 - 📲 **Web and mobile development**  
-  <progress value="50" max="100"></progress>
+  <span style="color:yellow">███████████░░░░░░░░░</span> 50%
 
 - 🤖 **Artificial intelligence**  
-  <progress value="15" max="100"></progress>
+  <span style="color:purple">██░░░░░░░░░░░░░░░░░░</span> 15%
 
 - 🧹 **Clean code and refactoring**  
-  <progress value="70" max="100"></progress>
+  <span style="color:red">██████████████░░░░░░</span> 70%
 
 
 - 🀄 **Programming in Lisp**  
-  <progress value="5" max="100"></progress>
+  <span style="color:blue">█░░░░░░░░░░░░░░░░░░░ </span>5%
 
 
 
