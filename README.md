@@ -36,7 +36,7 @@ class lumusa2design:
 </td>
 <td width = 50%>
 <h3 align="center">Linkcom</h3>
-<a href="https://github.com/lumusa2design/neural-network"><img src="media/linkcom.png" width=500px height= 200px>
+<a href="https://github.com/HeliotGonzalez/LinkCom-Frontend"><img src="media/linkcom.png" width=500px height= 200px>
 </td>
 </tr>
 </table>
@@ -44,36 +44,20 @@ class lumusa2design:
 ## 🌱 Currently Learning  
 
 - 💻 **Computer algorithms**  
-  <div style="background: #ddd; width: 100%; border-radius: 5px;">
-    <div style="background: #4CAF50; width: 40%; padding: 2px; border-radius: 5px;"></div>
-  </div>  
-<br>
+  <progress value="40" max="100"></progress>
 
-- 📲 **web and mobile development**  
-  <div style="background: #ddd; width: 100%; border-radius: 5px;">
-    <div style="background: #2196F3; width: 50%; padding: 2px; border-radius: 5px;"></div>
-  </div>  
-  
-<br>
+- 📲 **Web and mobile development**  
+  <progress value="50" max="100"></progress>
 
-- 🤖 **Artificial inteligence**  
-  <div style="background: #ddd; width: 100%; border-radius: 5px;">
-    <div style="background: #FF9800; width: 15%; padding: 2px; border-radius: 5px;"></div>
-  </div> 
+- 🤖 **Artificial intelligence**  
+  <progress value="15" max="100"></progress>
 
-  <br>
+- 🧹 **Clean code and refactoring**  
+  <progress value="70" max="100"></progress>
 
-- 🧹 **Clean code and refactoring.**  
-  <div style="background: #ddd; width: 100%; border-radius: 5px;">
-    <div style="background: #9C27B0; width: 70%; padding: 2px; border-radius: 5px;"></div>
-  </div>  
-
-  <br>
 
 - 🀄 **Programming in Lisp**  
-  <div style="background: #ddd; width: 100%; border-radius: 5px;">
-    <div style="background:rgb(255, 0, 0); width: 5%; padding: 2px; border-radius: 5px;"></div>
-  </div> 
+  <progress value="5" max="100"></progress>
 
 
 
@@ -104,8 +88,8 @@ class lumusa2design:
 [![Linkcom](https://img.shields.io/badge/Project-Active-brightgreen)](#)  
 📋**name of the project:** [Linkcom](#)
 
-👥 **With:** [AVR21](https://github.com/AVR21) , [Heliot Gonzalez](https://github.com/HeliotGonzalez/)  
-📌 **Description:** Brief summary of what the project is about.   
+👥 **With:** [AVR21](https://github.com/AVR21) , [Heliot Gonzalez](https://github.com/HeliotGonzalez/), [Javier Castilla](https://github.com/Javier-Castilla), [alexxarmaas](https://github.com/alexxarmaas),[mohamedOharoun](https://github.com/mohamedOharoun)   
+📌 **Description:** A community management application that will allow you to meet people with your tastes and meet up with them at different events.
 
 [![Practicas FSO](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/practicasFSO25)  
 📋**name of the project:** [Practicas FSO](https://github.com/lumusa2design/practicasFSO25)
@@ -123,6 +107,8 @@ ar).  -->
 ## 📫 Contact
 - **Instagram:** [@lumusa2design](https://www.instagram.com/lumusa2design)
 - **LinkedIn:** [Luis Muñoz Sanz](https://www.linkedin.com/in/luis-mu%C3%B1oz-sanz-4314541a5)
+
+
 ---
 <p><h2 align ="center">Languages and Tools</h2></p>
 <p>
@@ -134,6 +120,11 @@ ar).  -->
   <img src = "media/html-1.svg" width="50">
   <img src = "media/css-3.svg" width="50">
   <img src = "media/nodejs-3.svg" width="50">
+  <img src = "media/angular.svg" width="50" height="70">
+  <img src = "media/R.svg" width="60" height="60">
+  <img src = "media/minizinc.svg" width="50">
+  
+
 </p>
 
 ---
@@ -148,10 +139,16 @@ ar).  -->
   <img src = "media/3dsmax.svg" width="50">
   <img src = "media/substance.svg" width="50">
   <img src = "media/zbrush.svg" width="50">
+  <img src = "media/figma.svg" width="35">
   </p>
 
 ---
-
+<p><h2 align="center">OS used</h2></p>
+<p align="center">
+  <img src="media/windows.svg" width ="50">
+  <img src = "media/fedora.svg" width="50">
+  <img src = "media/ubuntu.svg" width="50">
+  </p>
 
 
 ## 📊 Stats
