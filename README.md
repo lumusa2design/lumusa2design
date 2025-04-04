@@ -151,17 +151,22 @@ ar).  -->
 
 
 ## 📊 Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumusa2design&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumusa2design&layout=compact&theme=radical" />
-</div>
-<div align="center">
+<p align="center">
+<a href="https://github.com/lumusa2design">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lumusa2design&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lumusa2design&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
-![](https://nirzak-streak-stats.vercel.app/?user=lumusa2design&theme=radical&hide_border=false)<br/>
-
-</div>
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lumusa2design&theme=radical&hide_border=false" alt="Streak Stats"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=lumusa2design&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lumusa2design&theme=radical&no-frame=true&margin-w=15&margin-h=15&titles=MultiLanguage,Commits,Followers,Repositories" alt="GitHub Profile Trophy" />
+  </a>
+</p>
 
