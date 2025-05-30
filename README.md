@@ -78,30 +78,22 @@ class lumusa2design:
 #### 🚀 **Excited to work on new projects!**  
 
 ### 🔥 Current Collaboration  
-[![Jack of all games](https://img.shields.io/badge/Project-Active-brightgreen)](#)  
-📋 **name of the project:** [Jack of all games](https://github.com/AVR21/jack-of-all-games)
-
-👥 **With:** [AVR21](https://github.com/AVR21) , [AlvaroRB](https://github.com/AlvaroRB)  
-📌 **Description:** A video game library manager that allows you to manage your games to your liking.
-
-[![Linkcom](https://img.shields.io/badge/Project-Active-brightgreen)](#)  
-📋**name of the project:** [Linkcom](#)
-
-👥 **With:** [AVR21](https://github.com/AVR21) , [Heliot Gonzalez](https://github.com/HeliotGonzalez/), [Javier Castilla](https://github.com/Javier-Castilla), [alexxarmaas](https://github.com/alexxarmaas),[mohamedOharoun](https://github.com/mohamedOharoun)   
-📌 **Description:** A community management application that will allow you to meet people with your tastes and meet up with them at different events.
 
 [![Practicas FSO](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/practicasFSO25)  
 📋**name of the project:** [Practicas FSO](https://github.com/lumusa2design/practicasFSO25)
 
 👥 **With:** [jesus-tdd](https://github.com/jesus-tdd/)  
 📌 **Description:** Project of a Operative System Subject.  
-<!--
-### 📜 Past Collaborations  
-[![Project 1](https://img.shields.io/badge/Project-Completed-blue)](#) - **[Name](#)** - Worked on **[Feature]** (Year).  
-[![Project 2](https://img.shields.io/badge/Project-Completed-blue)](#) - **[Name](#)** - Contributed to **[Something]** (Year).  
-[![Project 3](https://img.shields.io/badge/Project-Archived-gray)](#) - **[Name](#)** - Assisted with **[Task]** (Year).  
-ar).  -->
 
+
+---
+
+
+### 📜 Past Collaborations  
+[![Jack of all Games](https://img.shields.io/badge/JackOfAllGames-Archived-gray)](https://github.com/AVR21/jack-of-all-games) - **[Jack of all games](#)** - Worked as **Frontend developer** (2025).  
+[![LinkCom](https://img.shields.io/badge/LinkCom-Completed-purple)](#) - **[LinkCom](#)** - Contributed as **Full Stack developer** (2025).  
+
+---
 
 ## 📫 Contact
 - **Instagram:** [@lumusa2design](https://www.instagram.com/lumusa2design)
