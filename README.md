@@ -78,20 +78,21 @@ class lumusa2design:
 #### 🚀 **Excited to work on new projects!**  
 
 ### 🔥 Current Collaboration  
-
+<!--
 [![Practicas FSO](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/practicasFSO25)  
 📋**name of the project:** [Practicas FSO](https://github.com/lumusa2design/practicasFSO25)
 
 👥 **With:** [jesus-tdd](https://github.com/jesus-tdd/)  
 📌 **Description:** Project of a Operative System Subject.  
-
+-->
 
 ---
 
 
 ### 📜 Past Collaborations  
 [![Jack of all Games](https://img.shields.io/badge/JackOfAllGames-Archived-gray)](https://github.com/AVR21/jack-of-all-games) - **[Jack of all games](#)** - Worked as **Frontend developer** (2025).  
-[![LinkCom](https://img.shields.io/badge/LinkCom-Completed-purple)](#) - **[LinkCom](#)** - Contributed as **Full Stack developer** (2025).  
+[![LinkCom](https://img.shields.io/badge/LinkCom-Completed-purple)]() - **[LinkCom](#)** - Contributed as **Full Stack developer** (2025).  
+[![Practicas FSO](https://img.shields.io/badge/PracticasFSO-Completed-purple)](https://github.com/lumusa2design/practicasFSO25) - **[PracticasFSO](#)** - Contributed as **C Programmer** (2025).  
 
 ---
 
