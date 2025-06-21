@@ -22,21 +22,21 @@ class lumusa2design:
 <tr>
 <td width = 50%>
 <h3 align="center">Algorithms</h3>
-<a href="https://github.com/lumusa2design/algorithms"><img src = "media/algorithms.jpg"</a>
+<a href="https://github.com/lumusa2design/algorithms"><img src = "media/algorithms.png"</a>
 </td>
 <td width = 50%>
 <h3 align="center">Neural network</h3>
-<a href="https://github.com/lumusa2design/neural-network"><img src="media/neuron.jpg"></img></a>
+<a href="https://github.com/lumusa2design/neural-network"><img src="media/red_neuronal.png"></img></a>
 </td>
 </tr>
 <tr>
 <td width = 50%>
 <h3 align="center">Jack of all games</h3>
-<a href="https://github.com/lumusa2design/algorithms"><img src = "media/allgames.png" width=500px height= 200px></img></a>
+<a href="https://github.com/lumusa2design/algorithms"><img src = "media/jackofallgames.png" ></img></a>
 </td>
 <td width = 50%>
 <h3 align="center">Linkcom</h3>
-<a href="https://github.com/HeliotGonzalez/LinkCom-Frontend"><img src="media/linkcom.png" width=500px height= 200px>
+<a href="https://github.com/HeliotGonzalez/LinkCom-Frontend"><img src="media/LogoLinkComNegro.svg" >
 </td>
 </tr>
 </table>
