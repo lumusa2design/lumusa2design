@@ -43,7 +43,7 @@ class lumusa2design:
 
 ## 🌱 Currently Learning  
 - 💻 **Computer algorithms**  
-  <span style="color:green">  ████████████░░░░░░░░</span> 60%
+  <span style="color:green">  ██████████████░░░░░░</span> 70%
 
 - 📲 **Web and mobile development**  
   <span style="color:yellow"> ███████████░░░░░░░░░</span> 50%
