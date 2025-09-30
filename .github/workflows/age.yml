@@ -1,0 +1,37 @@
+name: Update Age in README
+
+on:
+  schedule:
+    - cron: "5 2 * * *"   
+  workflow_dispatch:       
+
+permissions:
+  contents: write          
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run age updater
+        run: |
+          python .github/scripts/update_age.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- README.md; then
+            echo "No changes to commit."
+          else
+            git add README.md
+            git commit -m "[bot] Update age in README"
+            git push
+          fi
