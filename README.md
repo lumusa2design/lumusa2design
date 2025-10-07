@@ -79,12 +79,17 @@ class lumusa2design:
 
 ### 🔥 Current Collaboration  
 <!--
-[![Practicas FSO](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/practicasFSO25)  
-📋**name of the project:** [Practicas FSO](https://github.com/lumusa2design/practicasFSO25)
+[![Practicas de VC](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
+📋**name of the project:** [Computer Visualization](https://github.com/lumusa2design/Computer-Visualization)
 
-👥 **With:** [jesus-tdd](https://github.com/jesus-tdd/)  
-📌 **Description:** Project of a Operative System Subject.  
+👥 **With:** [guillecab7](https://github.com/guillecab7)  
+📌 **Description:** Project of computer visualization to the subject "Visión por computador"
 -->
+[![Practicas de VC](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
+📋**name of the project:** [Computer Visualization](https://github.com/lumusa2design/Computer-Visualization)
+
+👥 **With:** [guillecab7](https://github.com/guillecab7)  
+📌 **Description:** Project of computer visualization to the subject "Visión por computador"
 
 ---
 
