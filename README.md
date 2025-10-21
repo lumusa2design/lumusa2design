@@ -16,13 +16,15 @@ class lumusa2design:
         programming()
 ```
 
+
+
 ## 👨🏼‍💻 main projects
 
 <table>
 <tr>
 <td width = 50%>
 <h3 align="center">Algorithms</h3>
-<a href="https://github.com/lumusa2design/algorithms"><img src = "media/algorithms.png"</a>
+<a href="https://github.com/lumusa2design/algorithms"><img src = "media/algorithms.png"></a>
 </td>
 <td width = 50%>
 <h3 align="center">Neural network</h3>
@@ -174,3 +176,5 @@ class lumusa2design:
   </a>
 </p>
 
+---
+> Nothing is as easy or as difficult as it seems.
