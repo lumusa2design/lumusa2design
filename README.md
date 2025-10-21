@@ -155,10 +155,16 @@ class lumusa2design:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lumusa2design&layout=compact&langs_count=8&theme=radical"/>
 </a>
 
-</p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lumusa2design&theme=radical&hide_border=false" alt="Streak Stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumusa2design&theme=tokyo-night&hide_border=false" alt="Activity Graph"/>
+</p>
+
+
+
 
 ## 🏆 GitHub Trophies
 
