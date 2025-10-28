@@ -7,7 +7,7 @@ class lumusa2design:
       self.profession = "👨🏼‍💻 Programmer"
       self.country = "🌍Spain"
       self.city = "🌆Las Palmas de Gran Canaria"
-      self.age = 25
+      self.age = 26
       self.hobbies = ["Coding","Learning" ,"Videogames"]
       self.favourite_music = "Rock"
     
