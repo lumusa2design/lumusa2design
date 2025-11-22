@@ -87,18 +87,21 @@ class lumusa2design:
 👥 **With:** [guillecab7](https://github.com/guillecab7)  
 📌 **Description:** Project of computer visualization to the subject "Visión por computador"
 -->
-[![Practicas de VC](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
+<!--[![Practicas de VC](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
 📋**name of the project:** [Computer Visualization](https://github.com/lumusa2design/Computer-Visualization)
 
 👥 **With:** [guillecab7](https://github.com/guillecab7)  
-📌 **Description:** Project of computer visualization to the subject "Visión por computador"
+📌 **Description:** Project of computer visualization to the subject "Visión por computador"-->
 
 ---
 
 
 ### 📜 Past Collaborations  
+
 [![Jack of all Games](https://img.shields.io/badge/JackOfAllGames-Archived-gray)](https://github.com/AVR21/jack-of-all-games) - **[Jack of all games](#)** - Worked as **Frontend developer** (2025).  
 [![LinkCom](https://img.shields.io/badge/LinkCom-Completed-purple)]() - **[LinkCom](#)** - Contributed as **Full Stack developer** (2025).  
+[![Practicas VC](https://img.shields.io/badge/Practicas_VC-Completed-purple)]() - **[Coputer visualization](#)** - Contributed as **Main developer** (2025).
+
 [![Practicas FSO](https://img.shields.io/badge/PracticasFSO-Completed-purple)](https://github.com/lumusa2design/practicasFSO25) - **[PracticasFSO](#)** - Contributed as **C Programmer** (2025).  
 
 ---
