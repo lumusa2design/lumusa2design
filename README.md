@@ -51,7 +51,7 @@ class lumusa2design:
   <span style="color:yellow"> ███████████░░░░░░░░░</span> 50%
 
 - 🤖 **Artificial intelligence**  
-  <span style="color:purple"> ██░░░░░░░░░░░░░░░░░░</span> 15%
+  <span style="color:purple">█████░░░░░░░░░░░░░░░</span> 35%
 
 - 🧹 **Clean code and refactoring**  
   <span style="color:red">██████████████░░░░░░</span> 70%
@@ -80,12 +80,12 @@ class lumusa2design:
 #### 🚀 **Excited to work on new projects!**  
 
 ### 🔥 Current Collaboration  
-<!--
-[![Practicas de VC](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
-📋**name of the project:** [Computer Visualization](https://github.com/lumusa2design/Computer-Visualization)
 
-👥 **With:** [guillecab7](https://github.com/guillecab7)  
-📌 **Description:** Project of computer visualization to the subject "Visión por computador"
+[![Visual Fruit Ninja](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
+📋**name of the project:** [Visual Fruit Ninja](https://github.com/Nayade-5/VC-Practicas_g9)
+
+👥 **With:** [Nayade-5](https://github.com/Nayade-5) & [DavidSMtl](https://github.com/DavidSMtl)  
+📌 **Description:** A Fruit Ninja game using hand gestures to control it and play interactively and accessibly.
 -->
 <!--[![Practicas de VC](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
 📋**name of the project:** [Computer Visualization](https://github.com/lumusa2design/Computer-Visualization)
