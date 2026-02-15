@@ -81,8 +81,8 @@ class lumusa2design:
 
 ### 🔥 Current Collaboration  
 
-[![Visual Fruit Ninja](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
-📋**name of the project:** [Visual Fruit Ninja](https://github.com/Nayade-5/VC-Practicas_g9)
+[![DEII WEB](https://img.shields.io/badge/Project-Active-brightgreen)](https://github.com/lumusa2design/Computer-Visualization)  
+📋**name of the project:** [Web DEII](https://github.com/Nayade-5/VC-Practicas_g9)
 
 👥 **With:** [Nayade-5](https://github.com/Nayade-5) & [DavidSMtl](https://github.com/DavidSMtl)  
 📌 **Description:** A Fruit Ninja game using hand gestures to control it and play interactively and accessibly.
@@ -99,8 +99,12 @@ class lumusa2design:
 ### 📜 Past Collaborations  
 
 [![Jack of all Games](https://img.shields.io/badge/JackOfAllGames-Archived-gray)](https://github.com/AVR21/jack-of-all-games) - **[Jack of all games](#)** - Worked as **Frontend developer** (2025).  
+
 [![LinkCom](https://img.shields.io/badge/LinkCom-Completed-purple)]() - **[LinkCom](#)** - Contributed as **Full Stack developer** (2025).  
+
 [![Practicas VC](https://img.shields.io/badge/Practicas_VC-Completed-purple)]() - **[Coputer visualization](#)** - Contributed as **Main developer** (2025).
+
+[![Visual Fruit Ninja](https://img.shields.io/badge/Visual_Fruit_Ninja-Completed-purple)](https://github.com/Nayade-5/VC-Practicas_g9) - **[Visual Fruit Ninja]()** -worked as **Programmer and artist** (2026)
 
 [![Practicas FSO](https://img.shields.io/badge/PracticasFSO-Completed-purple)](https://github.com/lumusa2design/practicasFSO25) - **[PracticasFSO](#)** - Contributed as **C Programmer** (2025).  
 
