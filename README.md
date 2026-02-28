@@ -173,7 +173,7 @@ class lumusa2design:
 </p>
 
 
-<!--
+
 
 ## 🏆 GitHub Trophies
 
@@ -182,6 +182,6 @@ class lumusa2design:
     <img src="https://github-profile-trophy.vercel.app/?username=lumusa2design&theme=radical&no-frame=true&margin-w=15&margin-h=15&titles=MultiLanguage,Commits,Followers,Repositories" alt="GitHub Profile Trophy" />
   </a>
 </p>
--->
+
 ---
 > Nothing is as easy or as difficult as it seems.
