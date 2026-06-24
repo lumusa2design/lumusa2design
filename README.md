@@ -10,7 +10,7 @@ class lumusa2design:
       self.age = 26
       self.hobbies = ["Coding","Learning" ,"Videogames"]
       self.favourite_music = "Rock"
-      self.mail = ✉️ contacto@lumusa.dev
+      self.mail = "✉️contacto@lumusa.dev"
     
     def actions(self):
       while True:
